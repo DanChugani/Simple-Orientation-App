@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChandanAssign12</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="myName">Chandan Chugani</string>
+    <string name="portrait">The Screen is in Portrait</string>
+    <string name="landscape">The Screen is in Landscape</string>
+    <string name="button1">A TOAST MESSAGE!</string>
+</resources>
